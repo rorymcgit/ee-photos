@@ -1,2 +1,4 @@
+.DS_Store
 eephotos/eephotos/__pycache__/
-eephotos/photo/__pycache__/
+eephotos/portfolio/__pycache__/
+eephotos/portfolio/migrations/__pycache__/
